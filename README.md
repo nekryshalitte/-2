@@ -12,10 +12,10 @@ markdown|
 |Папка|Назаначение|
 |-----|-----------|
 |'1_Uparvlenie_proektom| |Планы,отчёты|
-|'2_Terbovaniya_i_TZ/'| |Тех.Задание|
-|'3_Tehnicheskaya_realizaciya/'| |Исход. Код|
+|'2_Terbovaniya_i_TZ/'| |Техническое Задание|
+|'3_Tehnicheskaya_realizaciya/'| |Исходный Код|
 |'4_Testirovanie/'| |Тест кейсы и отчёты|
-|'5_Dokumentaciya/'| |Руковод. пользователя|
+|'5_Dokumentaciya/'| |Руководство пользователя|
 |'6_Vnedrenie_i_obuchenie/'| |Материалы для внедрения|
 
 ## 4 Текущий Статус
