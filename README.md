@@ -11,12 +11,12 @@ markdown|
 ## 3. Структура репозитория
 |Папка|Назаначение|
 |-----|-----------|
-|1_Uparvlenie_proektom||Планы,отчёты|
-|2_Terbovaniya_i_TZ||Тех.Задание|
-|3_Tehnicheskaya_realizaciya||Исход. Код|
-|4_Testirovanie||Тест кейсы и отчёты|
-|5_Dokumentaciya||Руковод. пользователя|
-|6_Vnedrenie_i_obuchenie||Материалы для внедрения|
+|'1_Uparvlenie_proektom| |Планы,отчёты|
+|'2_Terbovaniya_i_TZ/'| |Тех.Задание|
+|'3_Tehnicheskaya_realizaciya/'| |Исход. Код|
+|'4_Testirovanie/'| |Тест кейсы и отчёты|
+|'5_Dokumentaciya/'| |Руковод. пользователя|
+|'6_Vnedrenie_i_obuchenie/'| |Материалы для внедрения|
 
 ## 4 Текущий Статус
 Проект находится на этапе инициации. Сформирована команда, начат сбор требований.
